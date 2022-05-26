@@ -1,8 +1,9 @@
-https://scontent.fdac13-1.fna.fbcdn.net/v/t31.18172-8/16587342_956008364535963_5011958390712421248_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGT-WDjos-a-Ahen0ijGJvXPdlf3PgARbg92V_c-ABFuNO1IhakBa-3htdhPhF9jadvU-ePO_euOzl1S9aeQIlX&_nc_ohc=pUMeBgNkyt0AX9blAPe&_nc_ht=scontent.fdac13-1.fna&oh=00_AT8uBgoPHIu9Hi5EcenJDGrHx0QS_Sd3fZF-I2nlfXXIgg&oe=62B52D71
+![A passionate frontend developer from Bangladesh](https://scontent.fdac13-1.fna.fbcdn.net/v/t31.18172-8/16587342_956008364535963_5011958390712421248_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGT-WDjos-a-Ahen0ijGJvXPdlf3PgARbg92V_c-ABFuNO1IhakBa-3htdhPhF9jadvU-ePO_euOzl1S9aeQIlX&_nc_ohc=pUMeBgNkyt0AX9blAPe&_nc_ht=scontent.fdac13-1.fna&oh=00_AT8uBgoPHIu9Hi5EcenJDGrHx0QS_Sd3fZF-I2nlfXXIgg&oe=62B52D71)
+
 
 ### Hi there 👋, my name is Emdadul Hoque
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh]
+
 
 Skills:  NODE / REACT / JS / HTML / CSS
 
@@ -19,7 +20,4 @@ Skills:  NODE / REACT / JS / HTML / CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emdadul71&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Emdadul71)  
-
-
-
 

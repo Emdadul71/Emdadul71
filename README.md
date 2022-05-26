@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Emdadul Hoque
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://pbs.twimg.com/profile_banners/1316446010/1517895326/1500x500)
+![A passionate frontend developer from Bangladesh](https://scontent.fdac13-1.fna.fbcdn.net/v/t31.18172-8/16715871_957162291087237_3694765421365771314_o.jpg?_nc_cat=108&ccb=1-7&_nc_sid=174925&_nc_eui2=AeGWxpZgPCb0uqfG4q8fNcsdAMVcIiglaVkAxVwiKCVpWfXG29IkiXKKsH4A45zYUSUMljuuiLBRRR47kg2ayAGF&_nc_ohc=ecG3KzyIfTsAX9vy-Tt&_nc_ht=scontent.fdac13-1.fna&oh=00_AT-rf2gvQPuwca_LmVdyxdZbjAWO_kc5iQ9_hqgKkHr_fw&oe=62B6085C)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  NODE / REACT / JS / HTML / CSS
 

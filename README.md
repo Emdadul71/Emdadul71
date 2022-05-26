@@ -2,7 +2,7 @@
 
 
 ## Hi there 👋, I'm Emdadul Hoque
-#### A passionate frontend developer from Bangladesh
+### A passionate frontend developer from Bangladesh
 
 
 Skills:  NODE / REACT / JS / HTML / CSS

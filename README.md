@@ -5,7 +5,7 @@
 ### A passionate frontend developer from Bangladesh
 
 
-Skills:  NODE / REACT / JS / HTML / CSS
+Skills:  JavaScript/ ReactJs / NextJs / Redux / Tailwind / Rest API
 
 - 🔭 I’m currently working on m4yours 
 - 🌱 I’m currently learning node.js 
